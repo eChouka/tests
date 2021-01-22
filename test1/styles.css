@@ -1,0 +1,26 @@
+.search_form{
+	background: #ccc; 
+	width: 20%; 
+	margin-left:40%; 
+	padding:20px;
+}
+.search_field{
+	width: 70%; 
+	padding: 6px;
+}
+.search_button{
+	width: 20%; 
+	padding: 6px;
+}
+.results_table{
+	padding:10px; 
+	width: 21.6%; 
+	margin-top: 20px; 
+	margin-left: 40%;
+}
+.results_table thead tr td{
+	padding:5px 10px;
+}
+.results_table tbody tr td{
+	padding:5px 10px;
+}

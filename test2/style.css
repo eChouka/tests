@@ -1,0 +1,73 @@
+.main{
+	width:50%;
+	margin-left: 25%;
+	float:left;
+	background: #ccc;
+	border-radius: 2px;
+}
+.top_left{
+	width: 45%; 
+	float:left; 
+	border-bottom: 1px solid blue; 
+	margin-left:5%; 
+	height: 80px;
+}
+.top_right{
+	width: 45%; 
+	float:left; 
+	margin-right: 5%; 
+	border-bottom: 1px solid blue; 
+	height: 80px;
+}
+.top_button_add{
+	padding: 8px 10px; 
+	margin-top:30px; 
+	margin-right: 20px;
+}
+.top_button_validate{
+	padding: 8px 10px; 
+	margin-top:30px; 
+	margin-right: 20px;
+}
+.top_button_save{
+	padding: 8px 10px; 
+	margin-top:30px;
+}
+.forms_container{
+	width: 100%; 
+	float:left;
+	margin-bottom: 20px;
+}
+.mform{
+	width: 42.5%; 
+	margin-left: 5%; 
+	float:left;
+}
+.mform h3{
+	border-bottom: 1px solid blue; 
+}
+.mform h3 button{
+	margin-left:75%;
+}
+.mform_field{
+	width: 100%; 
+	margin-bottom: 10px; 
+	float:left;
+}
+.mform_field label{
+	width: 50%; 
+	float: left;
+}
+.mform_field input{
+	padding: 8px; 
+	width: 45%; 
+	float: left;
+}
+.mform_field span{
+	color:red; 
+	display: none;
+}
+.mform_field .span_active{
+	color:red; 
+	display: block;
+}
