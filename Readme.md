@@ -2,7 +2,7 @@ TEST 1, TEST 2
 
 I have implemented the TEST 1, and TEST 2 with the requirements given on them description. 
 
-My solutions and approaches on the problems solving that we have to solve implement them are absolute, of course there are and other solutions that can bring the same results. However me I tried to avoid "impressive solutions" and preferred to choose more simple and focus on fulfilling of the requirements.
+My solutions and approaches on the problems solving that we have to implement they are not absolute, of course there are and other solutions that can bring the same results. However me I tried to avoid "impressive solutions" and preferred to choose more simple and focus on fulfilling of the requirements.
 
 TEST 1 ::
 
